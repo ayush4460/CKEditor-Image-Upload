@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
