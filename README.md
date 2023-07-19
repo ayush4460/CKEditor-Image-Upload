@@ -1,4 +1,4 @@
-# CKEditor-Image-Upload
+# CKEditor-Image-Upload-Feature
 
 ## Description
 
