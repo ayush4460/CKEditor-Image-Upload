@@ -56,7 +56,6 @@ function App() {
                         const data = editor.getData();
                         console.log( { event, editor, data } );
                     } }
-
                 />
     </div>
   );
