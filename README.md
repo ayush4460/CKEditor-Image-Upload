@@ -2,7 +2,7 @@
 
 ## Description
 
-Enhance your CKEditor5 experience with seamless image uploading! This feature allows users to effortlessly upload and embed images directly within the editor. With server-side support, images are securely stored, assigned unique filenames, and efficiently displayed in your content. Simplify the process of adding visuals to your content with this user-friendly and powerful image upload functionality.
+Enhance your CKEditor5 experience with seamless image uploading! This feature allows users to effortlessly upload and embed images directly within the editor. With server-side support, images are securely stored, assigned unique filenames, and efficiently displayed in your content. Simplify the process of adding visuals to your content with this user-friendly and powerful image upload functionality
 
 ## Key Features
 
